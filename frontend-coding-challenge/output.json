@@ -1,0 +1,158 @@
+{
+  "story": {
+    "name": "coding challenge",
+    "created_at": "2023-04-25T08:42:03.797Z",
+    "published_at": "2023-04-28T13:47:16.918Z",
+    "id": 297361072,
+    "uuid": "b1d20a84-0733-4090-a84a-368bbee40801",
+    "content": {
+      "_uid": "ccad133c-339d-456d-8aae-101aa8434c99",
+      "body": [
+        {
+          "_uid": "ca030c4b-df94-4157-8c28-b9f71dbfcb01",
+          "text": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Effiziente, kabellose Messung von bis zu vier zusätzlichen Parametern parallel über unsere Smart Probes. Mit praktischem Second Screen und intuitiver Bedienung – einfacher geht es nicht.",
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hard_break",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hard_break",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Sparen Sie wertvolle Zeit mit der einfachen, intuitiven Dokumentation vor Ort und dem Versand der Messdaten per E-Mail durch die testo Smart App. Entdecken Sie die Vorteile der einfachen Datenintegration in Ihre betriebseigene Software mittels QR-Code – weniger Übertragungsfehler, weniger Papierkram, weniger Stress.",
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "image": {
+            "id": 8749220,
+            "alt": "testo 300",
+            "name": "",
+            "focus": "",
+            "title": "testo 300",
+            "filename": "https://a.storyblok.com/f/215020/972x495/9c9186f76e/testo300.png",
+            "copyright": "Testo SE \u0026 Co KGaA",
+            "fieldtype": "asset",
+            "is_external_url": false
+          },
+          "button": [
+            {
+              "_uid": "bc15c70b-08f7-4a4e-9eca-31f9bc231953",
+              "link": {
+                "id": "",
+                "url": "#",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "#"
+              },
+              "size": "medium",
+              "label": "Mehr erfahren",
+              "style": "default",
+              "component": "button",
+              "button_color": "primary"
+            }
+          ],
+          "headline": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "text": "Alternativlos in der Abgasmessung:",
+                    "type": "text"
+                  },
+                  {
+                    "type": "hard_break"
+                  },
+                  {
+                    "text": "das ",
+                    "type": "text"
+                  },
+                  {
+                    "text": "testo 300 NEXT LEVEL",
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "component": "image-text-section",
+          "image_layout": "proportional",
+          "reverse_layout": false,
+          "background_color": "white"
+        }
+      ],
+      "component": "default-page"
+    },
+    "slug": "coding-challenge",
+    "full_slug": "coding-challenge",
+    "sort_by_date": null,
+    "position": -30,
+    "tag_list": [],
+    "is_startpage": false,
+    "parent_id": null,
+    "meta_data": null,
+    "group_id": "a9f458fd-2488-43ef-80de-d14b98b2c9b9",
+    "first_published_at": "2023-04-25T08:53:03.731Z",
+    "release_id": null,
+    "lang": "default",
+    "path": null,
+    "alternates": [],
+    "default_full_slug": null,
+    "translated_slugs": null
+  },
+  "cv": 1682689636,
+  "rels": [],
+  "links": []
+}
