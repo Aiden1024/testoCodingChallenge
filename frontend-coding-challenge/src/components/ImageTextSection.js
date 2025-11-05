@@ -10,7 +10,7 @@ export default function ImageTextSection({ blok }) {
     const rawText = extractText(text);
 
     return (
-        <section className=" border-t border-gray-300 py-4 h-screen flex flex-col">
+        <section className=" h-screen flex flex-col">
             {/* Section Header */}
             <div className="pb-8">
                 <h2 className=" line-clamp-2 pl-8  md:text-3xl font-bold items-start flex flex-col border-transparent border-b-2 w-full border-b-black pb-2">
